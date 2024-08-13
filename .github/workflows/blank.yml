@@ -13,7 +13,7 @@ jobs:
     runs-on: self-hosted
     steps:
     - name: Step 1
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Step 2
       run: echo "Olá, mundo! Pimeiro Job" 
