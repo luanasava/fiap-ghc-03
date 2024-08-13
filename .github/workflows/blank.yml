@@ -1,0 +1,25 @@
+# Definindo o nome do Workflow
+name: Test Workflow
+
+# Definindo quando o Workflow será disparado
+on:
+  push:
+    branches: [ main, developer ]
+
+# Definindo os jobs que o workflow executará
+jobs:
+  test_job:
+    name: Executando o Job de Teste
+    runs-on: self-hosted
+    steps:
+    - name: Step 1
+      uses: actions/checkout@v2
+
+    - name: Step 2
+      run: echo "Olá, mundo! Pimeiro Job" 
+
+    - name: Step 3
+      run: echo "3 step" 
+
+    - name: Step 2
+      run: echo "4 step" 
