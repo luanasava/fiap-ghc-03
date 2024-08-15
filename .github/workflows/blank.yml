@@ -25,7 +25,7 @@ jobs:
       uses: docker/build-push-action@v6.7.0
       with:
         context: .
-        tags: 'latest'
+        tags: 'luanasava/fiap-ghcactions:tagname'
         push: true
     
                 
