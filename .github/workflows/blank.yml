@@ -21,6 +21,13 @@ jobs:
         username: 'luanasava'
         password:  ${{ secrets.SECRET_DOCKER }}
 
-            
-
-   
+    - name: Build and push Docker images
+      uses: docker/build-push-action@v6.7.0
+      with:
+        context: .
+        tags: 'latest'
+        push: true
+    
+                
+    
+       
