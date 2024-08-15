@@ -18,8 +18,8 @@ jobs:
     - name: Docker Login
       uses: docker/login-action@v3.3.0
       with:
-        username: 'luanasava@gmail.com'
-        password:  $ {{ secrets.SECRET_DOCKER }}
+        username: 'luanasava'
+        password:  ${{ secrets.SECRET_DOCKER }}
 
             
 
