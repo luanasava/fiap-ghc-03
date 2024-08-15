@@ -1,0 +1,14 @@
+C:\Users\luana\Documents\Docker\bin\Debug\net8.0\Docker.exe
+C:\Users\luana\Documents\Docker\bin\Debug\net8.0\Docker.deps.json
+C:\Users\luana\Documents\Docker\bin\Debug\net8.0\Docker.runtimeconfig.json
+C:\Users\luana\Documents\Docker\bin\Debug\net8.0\Docker.dll
+C:\Users\luana\Documents\Docker\bin\Debug\net8.0\Docker.pdb
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\Docker.AssemblyInfoInputs.cache
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\Docker.AssemblyInfo.cs
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\Docker.csproj.CoreCompileInputs.cache
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\Docker.dll
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\refint\Docker.dll
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\Docker.pdb
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\Docker.genruntimeconfig.cache
+C:\Users\luana\Documents\Docker\obj\Debug\net8.0\ref\Docker.dll
